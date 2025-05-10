@@ -44,4 +44,4 @@
 ### 📫 Let's Connect
 
 - 📧 daniel007sult@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-sultan04072001) *(← update with your actual link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-sultan04072001) 
