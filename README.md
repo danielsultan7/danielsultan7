@@ -5,7 +5,7 @@
 <br>
 💻 Full-Stack / Backend Developer | Strong foundations in Systems & Databases  
 <br>
-🛠️ Hands-on experience with React, Node.js/Express, PostgreSQL (Supabase), C, Java, Python  
+🛠️ Hands-on experience with React, Node.js/Express, PostgreSQL, C, Java, Python  
 <br>
 🚀 Always building real projects — focused on clean architecture, security, and scalable systems
 </p>
