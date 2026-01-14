@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Daniel Sultan</h1>
 
 <p align="center">
-🎓 2nd-year Software Engineering Student  
+🎓 3nd-year Software Engineering Student  
 <br>
 🤖 Passionate about Artificial Intelligence, Machine Learning & Mobile App Development  
 <br>
