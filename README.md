@@ -1,22 +1,33 @@
 <h1 align="center">Hi there 👋, I'm Daniel Sultan</h1>
 
 <p align="center">
-🎓 3nd-year Software Engineering Student  
+🎓 3rd-year Software Engineering Student (Afeka College, Tel Aviv)  
 <br>
-🤖 Passionate about Artificial Intelligence, Machine Learning & Mobile App Development  
+💻 Full-Stack / Backend Developer | Strong foundations in Systems & Databases  
 <br>
-💻 Currently working with C, Java, Python  
+🛠️ Hands-on experience with React, Node.js/Express, PostgreSQL (Supabase), C, Java, Python  
 <br>
-🧠 Always learning, always building
+🚀 Always building real projects — focused on clean architecture, security, and scalable systems
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧠 About Me
+- Passionate about building real-world systems end-to-end (Frontend ↔ Backend ↔ Database)
+- Interested in Backend Engineering, Full-Stack Development, and Systems Programming
+- Strong academic and practical background in databases, networking, and software engineering
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
@@ -25,16 +36,37 @@
 
 ### 📌 Featured Projects
 
-- 🎮 **2048 Game in C** – A full console-based implementation of the 2048 puzzle game with dynamic memory management and user input handling  
-- 🛒 **Supermarket Management System (C)** – A complete management system for a supermarket featuring club members, binary file I/O, and dynamic operations  
-- 🛍️ **E-Commerce Store System (Java)** – An object-oriented application for managing products, orders, and customers in a virtual store environment  
+- 💰 **FinView (Personal Finance Dashboard)**  
+  Full-stack web app: React + Node.js + PostgreSQL (Supabase).  
+  Focus: clean UI, modular architecture, scalable backend, data management.
 
-*(Check them out in my pinned repositories ⬆️)*
+- 🛒 **EduEquip / eCommerce System (Java + DB)**  
+  A complete system for managing buyers/sellers/products and shopping carts.  
+  Focus: database design, triggers/procedures, business logic, audit logging.
+
+- 🔍 **Audit Logs + Anomaly Detection Microservice**  
+  Designed a log pipeline with database-backed audit logs and an AI microservice for anomaly scoring.  
+  Focus: microservices architecture, async processing, reliability, fault tolerance.
+
+- 🎮 **2048 Game in C**  
+  Console implementation with dynamic memory management and clean game logic.
+
+- 🛒 **Supermarket Management System (C)**  
+  File I/O (binary), dynamic data structures, and operations for managing customers and products.
+
+*(You can find more in my pinned repositories ⬆️)*
+
+---
+
+### 🎯 Currently Looking For
+**Student positions / internships** in:
+- Backend Development
+- Full-Stack Development
+- Embedded / Systems (C/C++)
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielsultan7&show_icons=true&theme=radical" />
 </p>
@@ -42,6 +74,5 @@
 ---
 
 ### 📫 Let's Connect
-
-- 📧 daniel007sult@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-sultan04072001) 
+- 📧 daniel007sult@gmail.com  
+- 🔗 [LinkedIn](www.linkedin.com/in/daniel-sultan007)
