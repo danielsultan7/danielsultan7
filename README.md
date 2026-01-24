@@ -40,9 +40,10 @@
   Full-stack web app: React + Node.js + PostgreSQL (Supabase).  
   Focus: clean UI, modular architecture, scalable backend, data management.
 
-- 🛒 **EduEquip / eCommerce System (Java + DB)**  
-  A complete system for managing buyers/sellers/products and shopping carts.  
-  Focus: database design, triggers/procedures, business logic, audit logging.
+- 🛒 **EduEquip / eCommerce System **  
+A secure full-stack eCommerce system built with a clear separation between frontend, backend, database, and microservices.
+Implements role-based access control, JWT authentication, HTTPS (TLS), audit logging, and a dedicated AI-based microservice for log anomaly detection.
+Designed with a normalized PostgreSQL schema, server-side business logic, and an emphasis on security, scalability, and maintainability.
 
 - 🔍 **Audit Logs + Anomaly Detection Microservice**  
   Designed a log pipeline with database-backed audit logs and an AI microservice for anomaly scoring.  
